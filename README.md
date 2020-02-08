@@ -1,2 +1,0 @@
-# mvvm
-like vue mvvm
